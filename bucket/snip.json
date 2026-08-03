@@ -8,7 +8,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/gitkeniwo/snip/releases/download/v0.5.1/snip-x86_64-pc-windows-msvc.zip",
-            "hash": "99b42852a0ae3cf2192578743a0bb4bf27eadff8bfb07d71fd66fc14865280e3"
+            "hash": "740d88412f72e393074d46e28cddfdd89779f0a54002996327b445461e8e5bb5"
         }
     },
     "bin": "snip.exe",
