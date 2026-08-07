@@ -1,14 +1,14 @@
 {
     "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
     "##": "Rendered by the release workflow into the gitkeniwo/scoop-snip bucket.",
-    "version": "0.5.4",
+    "version": "0.5.5",
     "description": "Filesystem-native snippet library and agent-friendly CLI",
     "homepage": "https://github.com/gitkeniwo/snip",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gitkeniwo/snip/releases/download/v0.5.4/snip-x86_64-pc-windows-msvc.zip",
-            "hash": "085974167e4879a2f3232ed3eae1dbd57f65ee3430c8b812074f72fb453a1f2d"
+            "url": "https://github.com/gitkeniwo/snip/releases/download/v0.5.5/snip-x86_64-pc-windows-msvc.zip",
+            "hash": "2b1f21da1e0db2ccb6d4587a7be53a8f6aa46c87e15716a1d4603ec0fcf9cddd"
         }
     },
     "bin": "snip.exe",
